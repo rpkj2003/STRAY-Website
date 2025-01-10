@@ -649,7 +649,7 @@ strong {
   HERO         
 -----------------------------------------*/
 .hero-section {
-  background-image: <img src="images/cat-ezgif.com-webp-to-jpeg-converter.jpeg" class="member-block-image img-fluid" alt="">
+ background-image: url('images/cat-ezgif.com-webp-to-jpeg-converter.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -702,7 +702,7 @@ strong {
   BACKGROUND IMAGE SECTION        
 -----------------------------------------*/
 .section-bg-image {
-  background-image: <img src="images/cat2.jpeg" class="member-block-image img-fluid" alt="">
+ background-image: url('images/cat2.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

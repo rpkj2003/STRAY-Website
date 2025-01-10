@@ -649,7 +649,7 @@ strong {
   HERO         
 -----------------------------------------*/
 .hero-section {
- background-image: url('https://github.com/rpkj2003/STRAY-Website/blob/main/images/cat-ezgif.com-webp-to-jpg-converter.jpg');
+ background-image: url(https://github.com/rpkj2003/STRAY-Website/blob/main/images/cat-ezgif.com-webp-to-jpg-converter.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
